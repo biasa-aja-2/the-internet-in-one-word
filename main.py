@@ -14,6 +14,13 @@ about the internet as a whole rather than one app or one mood, it is
 not the first obvious word anyone reaches for (doomscrolling,
 brainrot, buffering), and at four letters it lands before the reader
 has time to think. It makes you laugh, then nod.
+
+Rejected candidates, and why Oops beats them: "Doomscrolling" and
+"brainrot" are the first obvious words and already crowd the field;
+"Buffering" is true but not funny; "Anyway" is dry where Oops is a
+punchline; "Later" is true of procrastination but not of the whole
+internet. Oops is the only one that is funny, true, surprising, and
+four letters at once.
 """
 
 import os
